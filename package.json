@@ -1,0 +1,12 @@
+{
+  "name": "text-to-emoji-translator",
+  "version": "1.0.0",
+  "description": "A fun library to translate text into emojis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["emoji", "text", "translator"],
+  "author": "Your Name",
+  "license": "MIT"
+}
