@@ -1,6 +1,6 @@
 {
   "name": "text-to-emoji-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fun library to translate text into emojis.",
   "main": "index.js",
   "scripts": {
